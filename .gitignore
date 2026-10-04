@@ -1,0 +1,6 @@
+# 로컬 전용 (Nebula 작업 파일, 로컬 테스트용)
+distribution_local.json
+meta/
+schemas/
+modpacks/
+servers/*/servermeta.json
