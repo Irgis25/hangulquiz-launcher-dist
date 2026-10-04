@@ -155,9 +155,9 @@
           "name": "DDalgi City Props",
           "type": "FabricMod",
           "artifact": {
-            "size": 10521864,
+            "size": 11183074,
             "url": "https://irgis25.github.io/hangulquiz-launcher-dist/servers/hangulquiz-1.20.1/fabricmods/required/ddalgi_city-0.1.0.jar",
-            "MD5": "64255228fb3fd03a98c0e5cc5e09f2c4"
+            "MD5": "5665df9250a66d08fc885d3c5b1fa5da"
           }
         },
         {
@@ -288,6 +288,28 @@
             "size": 5279173,
             "url": "https://irgis25.github.io/hangulquiz-launcher-dist/servers/hangulquiz-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.6.22.jar",
             "MD5": "326c270a4f935517ff651a2e644684df"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://irgis25.github.io/hangulquiz-launcher-dist/servers/hangulquiz-1.20.1/files/config/iris.properties",
+            "MD5": "81f9911dcdccd3402af38710e5b45bb6",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "miniature-shader-2.19-DDalgi-IRL.zip",
+          "name": "miniature-shader-2.19-DDalgi-IRL.zip",
+          "type": "File",
+          "artifact": {
+            "size": 99227,
+            "url": "https://irgis25.github.io/hangulquiz-launcher-dist/servers/hangulquiz-1.20.1/files/shaderpacks/miniature-shader-2.19-DDalgi-IRL.zip",
+            "MD5": "b544478376317fcd7201740f30401125",
+            "path": "shaderpacks/miniature-shader-2.19-DDalgi-IRL.zip"
           }
         }
       ]
