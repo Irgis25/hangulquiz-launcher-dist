@@ -7,7 +7,7 @@
       "description": "Minecraft 1.20.1 · Fabric 0.19.5",
       "icon": "https://irgis25.github.io/hangulquiz-launcher-dist/servers/hangulquiz-1.20.1/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "221.145.191.53:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
       "autoconnect": true,
