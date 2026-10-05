@@ -302,6 +302,16 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 144,
+            "url": "https://irgis25.github.io/hangulquiz-launcher-dist/servers/hangulquiz-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "miniature-shader-2.19-DDalgi-IRL.zip",
           "name": "miniature-shader-2.19-DDalgi-IRL.zip",
           "type": "File",

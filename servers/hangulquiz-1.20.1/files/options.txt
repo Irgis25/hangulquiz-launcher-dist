@@ -1,0 +1,7 @@
+version:3465
+lang:ko_kr
+soundCategory_music:0.0
+onboardAccessibility:false
+tutorialStep:none
+joinedFirstServer:true
+skipMultiplayerWarning:true
