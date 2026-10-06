@@ -165,9 +165,9 @@
           "name": "HangulQuiz Core",
           "type": "FabricMod",
           "artifact": {
-            "size": 16429596,
+            "size": 16431225,
             "url": "https://irgis25.github.io/hangulquiz-launcher-dist/servers/hangulquiz-1.20.1/fabricmods/required/hangulquiz-0.1.0.jar",
-            "MD5": "a660b711a50af079e54478c674925d38"
+            "MD5": "6da60c9618d00bea7c1b5472486ad0b6"
           }
         },
         {
