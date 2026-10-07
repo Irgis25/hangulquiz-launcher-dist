@@ -141,16 +141,6 @@
           }
         },
         {
-          "id": "irgis.ddalgicity:ddalgi_city:0.1.0@jar",
-          "name": "DDalgi City Props",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 39961979,
-            "url": "https://irgis25.github.io/hangulquiz-launcher-dist/servers/hangulquiz-1.20.1/fabricmods/required/ddalgi_city-0.1.0.jar",
-            "MD5": "6a92b08857f3209d7376a67dfc9c1cd6"
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.92.12+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -158,16 +148,6 @@
             "size": 2137232,
             "url": "https://irgis25.github.io/hangulquiz-launcher-dist/servers/hangulquiz-1.20.1/fabricmods/required/fabric-api-0.92.12+1.20.1.jar",
             "MD5": "0e405ca544d986fb65f3f524e393c11a"
-          }
-        },
-        {
-          "id": "irgis.hangulquiz:hangulquiz:0.1.0@jar",
-          "name": "HangulQuiz Core",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 16442846,
-            "url": "https://irgis25.github.io/hangulquiz-launcher-dist/servers/hangulquiz-1.20.1/fabricmods/required/hangulquiz-0.1.0.jar",
-            "MD5": "26169a434844692285ffc7924f355aa5"
           }
         },
         {
